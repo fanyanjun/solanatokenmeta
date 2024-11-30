@@ -1,0 +1,15 @@
+{
+    "name": "coolWeb3",
+    "description": "This is My coolWeb3 Collection",
+    "image": "collection.png",
+    "external_url": "https://example.com",
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/fanyanjun/solanatokenmeta/blob/main/firstnft/collection.png?raw=true",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }

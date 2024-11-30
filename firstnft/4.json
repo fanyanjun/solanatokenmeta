@@ -1,0 +1,21 @@
+{
+    "name": "coolWeb3 #4",
+    "description": "My NFT coolWeb3 Collection",
+    "image": "https://github.com/fanyanjun/solanatokenmeta/blob/main/firstnft/4.png?raw=true",
+    "external_url": "https://example.com",
+    "attributes": [
+      {
+        "trait_type": "cocor",
+        "value": "gold"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/fanyanjun/solanatokenmeta/blob/main/firstnft/4.png?raw=true",
+          "type": "image/png"
+        }
+      ],
+      "category": "image"
+    }
+  }
